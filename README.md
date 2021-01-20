@@ -1,4 +1,4 @@
-# CS162-Operating-Systems-and-Systems-Programming
+# CS162 Operating Systems and Systems Programming
 ## Course Info
 - The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
 
